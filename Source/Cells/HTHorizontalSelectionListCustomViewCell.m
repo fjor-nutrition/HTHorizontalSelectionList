@@ -7,8 +7,7 @@
 //
 
 #import "HTHorizontalSelectionListCustomViewCell.h"
-
-#import <M13BadgeView/M13BadgeView.h>
+@import M13BadgeView;
 
 @interface HTHorizontalSelectionListCustomViewCell ()
 
