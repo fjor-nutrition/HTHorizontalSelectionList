@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "m13badgeview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fjor-nutrition/M13BadgeView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "697b605b9b09e0b99b84616b66bc10c9c7edab8c"
+      }
+    }
+  ],
+  "version" : 2
+}
